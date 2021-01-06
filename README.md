@@ -24,8 +24,9 @@ x + y = 4
 2x + 2y = 8
 
 ```
+![image](https://user-images.githubusercontent.com/48656800/103775475-2642b600-503f-11eb-83a2-240a7e52c35f.png)
 
-- The equation cannot be resolved, it has no solution
-- error in the code because it has no solution
+
+- The equation cannot be resolved, it has no solution + error in the code because it has no solution
 
 
