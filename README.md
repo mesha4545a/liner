@@ -6,6 +6,10 @@ Use your Jupyterlab environment and numpy from your MatrixDS project to solve th
 7x - 5y = 9
 
 ```
+![IMG-2631](https://user-images.githubusercontent.com/48656800/103772982-6bfd7f80-503b-11eb-8591-1fa1c54fb046.JPG)
+
+![IMG-2630](https://user-images.githubusercontent.com/48656800/103773063-89cae480-503b-11eb-99be-758fb1e1bb0c.JPG)
+
 ```
 x + y + z = 6
 y + z = -4
