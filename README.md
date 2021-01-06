@@ -25,5 +25,5 @@ x + y = 4
 
 ```
 - has no solution
--error in the code because it has no solution
+- error in the code because it has no solution
 
