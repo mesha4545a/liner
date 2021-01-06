@@ -24,6 +24,8 @@ x + y = 4
 2x + 2y = 8
 
 ```
-- has no solution
+
+- The equation cannot be resolved, it is Infinitely many solutions
 - error in the code because it has no solution
+
 
