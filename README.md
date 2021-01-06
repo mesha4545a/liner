@@ -16,9 +16,14 @@ y + z = -4
 2x + 5y - z = 27
 
 ```
+![IMG-2633](https://user-images.githubusercontent.com/48656800/103773135-a8c97680-503b-11eb-9c3c-295680114ba7.JPG)
+![IMG-2632](https://user-images.githubusercontent.com/48656800/103773141-abc46700-503b-11eb-9dad-4b07bdc6ecd0.JPG)
 
 ```
 x + y = 4
 2x + 2y = 8
 
 ```
+- has no solution
+-error in the code because it has no solution
+
